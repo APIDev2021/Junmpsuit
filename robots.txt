@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.legato.finance
+
+# Sitemaps
+Sitemap: https://www.legato.finance/sitemap.xml
