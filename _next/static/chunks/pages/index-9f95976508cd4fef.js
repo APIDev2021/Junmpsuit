@@ -211,11 +211,7 @@
                         id: 6,
                         question: "How JumpSUIt DEX works?",
                         answer: "JumpSUIt decentralized exchange is based on custom weight AMM, which allows anyone wanting to list tokens to set custom weights. This can help reduce initial capital on settlement assets like USDC or SUI by around 3x to 5x."
-                    }, {
-                        id: 7,
-                        question: "Has your smart contract been audited?",
-                        answer: "The smart contract is currently being audited by the audit team at Tamago Labs. We will post the report on the website once it's completed."
-                    }, {
+                    },  {
                         id: 9,
                         question: "How can I contact your team?",
                         answer: "DM us on Twitter/X account or send us an email at support@tamagolabs.com."
